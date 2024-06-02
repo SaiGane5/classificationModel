@@ -5,3 +5,7 @@ transformers
 scikit-learn
 nltk
 seaborn
+lang-chain
+lang-chain.community
+milvus
+openai
